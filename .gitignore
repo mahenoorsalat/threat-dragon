@@ -296,3 +296,5 @@
 # utility scripts
 !utils
 !utils/**/*
+config.bat
+node_modules
