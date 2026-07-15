@@ -338,3 +338,5 @@
 !ThreatDragonModels/*model.json
 !ThreatDragonModels/test/
 !ThreatDragonModels/test/*.json
+config.bat
+node_modules
